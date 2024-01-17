@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me </br>
+🚀 Eu sou Leandro, tenho 35 anos, tive contato com computadores com 15 anos de idade, quando comecei a trabalhar com hardware e software. Sou muito empolgado com a área de tecnologia, procuro estudar todos os dias para me atualizar neste ecosistema gigante. Procuro desenvolver as soluções, para que o usuário posso obter a melhor experiência, com um layout amigável, responsivo.
+</br></br>
 
-<!--
-**leandro-grande/leandro-grande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  🛠 Tech Stack
+💻  Front-end: </br>
+HTML ▪︎ CSS ▪︎ JavaScript ▪︎ React ▪︎ NextJS ▪︎ TypeScript
 
-Here are some ideas to get you started:
+🔑  Back-end e banco de dados: </br>
+Node.js ▪︎ MongoDB ▪︎ PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️   DevOps </br>
+AWS - EC2 ▪︎ S3 ▪︎ ECS ▪︎ CloudFront
